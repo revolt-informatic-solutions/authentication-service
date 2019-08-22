@@ -1,5 +1,4 @@
 package com.revolt.controller;
-
 import java.net.URI;
 
 import org.springframework.beans.factory.annotation.Autowired;

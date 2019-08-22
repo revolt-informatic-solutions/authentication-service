@@ -2,7 +2,6 @@
  * 
  */
 package com.revolt.model;
-
 import java.util.ArrayList;
 import java.util.List;
 

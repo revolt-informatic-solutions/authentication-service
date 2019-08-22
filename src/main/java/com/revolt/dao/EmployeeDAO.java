@@ -2,7 +2,6 @@
  * 
  */
 package com.revolt.dao;
-
 import org.springframework.stereotype.Repository;
 
 import com.revolt.model.Employee;
